@@ -50,8 +50,8 @@ Describe any challenges encountered while building the app.
 ### App Walkthough GIF
 https://github.com/terrontheon/MovieApplication2/blob/master/Walkthrough-flicks.gif
 
-https://github.com/terrontheon/MovieApplication2/blob/master/Walkthrough-flicks%20pt.2.gif
-<img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/terrontheon/MovieApplication2/blob/master/Walkthrough-flicks%20pt.2.gif' />
+
 ### Notes
 Describe any challenges encountered while building the app.
 Getting the backdrop to bedisplayed when in landscape mode. Also having to figure out the newer versions of words to allow the program to work due to older videos.
