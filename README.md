@@ -50,7 +50,9 @@ Describe any challenges encountered while building the app.
 ### App Walkthough GIF
 https://github.com/terrontheon/MovieApplication2/blob/master/Walkthrough-flicks.gif
 
-(https://github.com/terrontheon/MovieApplication2/blob/master/Walkthrough-flicks%20pt.2.gif)
+https://github.com/terrontheon/MovieApplication2/blob/master/Walkthrough-flicks%20pt.2.gif
+
+Walkthrough-flicks.gif
 
 ### Notes
 Describe any challenges encountered while building the app.
